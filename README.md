@@ -1,4 +1,4 @@
-# 🔍 SmartVision Cane (SVC) [https://drive.google.com/file/d/1S2Fh-44BxfqaYEFgEkCb_u9bTByvVzu0/view?usp=sharing]
+# 🔍 SmartVision Cane (SVC) [https://bit.ly/SmartVisionCane]
 
 An AI-powered smart cane using edge computing, computer vision, and IoT to enhance the mobility and safety of visually impaired individuals.
 
@@ -78,13 +78,13 @@ K --> A
 
 ---
 
-🧩 Flow Chart [https://drive.google.com/file/d/14UmJYK49MJjwZDECLBR8z1w-aU-XnhNO/view?usp=sharing]
+🧩 Flow Chart [https://bit.ly/FlowChartSVC]
 
 Interaction between Kria KV260, sensors, GSM/GPS, and ESP32
 
 ---
 
-⚡ Circuit Diagram [https://drive.google.com/file/d/1U-wmsbWvhk-P1RDY2-QXjNO1bjcSw4-R/view?usp=sharing]
+⚡ Block Diagram [https://bit.ly/BlockDiagramSVC]
 
 Includes SIM800C, ESP32, GPS, Camera, Speaker, MPU6050, and Power Supply
 
